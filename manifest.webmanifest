@@ -1,0 +1,16 @@
+{
+  "name": "Ledger & Runway",
+  "short_name": "Ledger",
+  "description": "Monthly budget for variable income — plan, log, debts, goals.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F6F3",
+  "theme_color": "#0B5F53",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
